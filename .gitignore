@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (중요)
+*.csv
+*.json
+
+# Model files (중요)
+*.pt
+*.pth
+*.bin
+
+# Logs
+*.log
+
+# HuggingFace cache
+.cache/
